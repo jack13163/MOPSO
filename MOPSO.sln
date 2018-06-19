@@ -5,6 +5,8 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MOPSO", "MOPSO\MOPSO.csproj", "{1620F756-90C5-4E0D-B7B8-7111BD95856E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MOPSOLIB", "MOPSOLIB\MOPSOLIB.csproj", "{6B0878F4-37FB-4CF1-9483-D1352F455B08}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{1620F756-90C5-4E0D-B7B8-7111BD95856E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1620F756-90C5-4E0D-B7B8-7111BD95856E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1620F756-90C5-4E0D-B7B8-7111BD95856E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B0878F4-37FB-4CF1-9483-D1352F455B08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B0878F4-37FB-4CF1-9483-D1352F455B08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B0878F4-37FB-4CF1-9483-D1352F455B08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B0878F4-37FB-4CF1-9483-D1352F455B08}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
